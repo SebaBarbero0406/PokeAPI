@@ -1,0 +1,21 @@
+#container{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: beige;
+  }
+  
+  .card{
+    width: 250px;
+    height: 80px;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(216, 216, 80);
+    border: 5px solid blue;
+    border-radius: 40px;
+    text-align: center;
+  }
+  
+  .nombre_card{
+    font-weight: bolder;
+  }
